@@ -15,7 +15,7 @@ def main():
             inst[i] += 1
             i += mov
             steps += 1
-    except:
+    except IndexError:
         print(steps)
 
 
