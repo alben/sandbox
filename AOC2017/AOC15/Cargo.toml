@@ -1,0 +1,10 @@
+[package]
+name = "AOC15"
+version = "0.1.0"
+authors = ["ablancov"]
+
+[dependencies]
+
+[[bin]]
+name = "AOC15"
+path = "src/main.rs"

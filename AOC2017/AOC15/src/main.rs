@@ -31,7 +31,7 @@ fn f1() {
             0
         };
         let final_b = &aux_b[idb..];
-        if (final_a == final_b) {
+        if final_a == final_b {
             total = total + 1;
         }
     }
