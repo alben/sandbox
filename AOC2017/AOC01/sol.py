@@ -7,7 +7,6 @@ SOL3 = 0
 TEST4 = '91212129'
 SOL4 = 9
 
-
 target = TEST2
 total = 0
 for i, item in enumerate(target, 1):
